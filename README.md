@@ -1,2 +1,2 @@
-# power-zip
-PowerShell v2.0 to unzip files
+# Scripts
+This Project is just random scripts I wrote.
